@@ -1,23 +1,23 @@
-# Key-Value Storage Engine u Go-u
+# Key-Value Storage Engine in Go
 
-Ovaj projekat implementira **key-value engine** za skladištenje velike količine podataka, inspirisan principima modernih baza podataka. Projekat je razvijen kao timski zadatak na fakultetu, a moj doprinos obuhvata implementaciju i optimizaciju ključnih struktura podataka i algoritama.
+This project implements a **key-value engine** for storing large amounts of data, inspired by the principles of modern databases. The project was developed as a team assignment at university, and my contribution includes the implementation and optimization of key data structures and algorithms.
 
-## Funkcionalnosti
-- Skladištenje podataka u obliku **key-value parova**
-- Višeslojna arhitektura: keš, memorija, summary strukture, disk
-- Efikasno pretraživanje podataka kroz različite slojeve
-- **Kompakcija** podataka kada se SStable fajlovi previše uvećaju
-- Implementacija probabilističkih algoritama za analizu podataka
+## Features
+- Storage of data in the form of **key-value pairs**
+- Multi-layer architecture: cache, memory, summary structures, disk
+- Efficient data lookup across different layers
+- **Compaction** of data when SStable files grow too large
+- Implementation of probabilistic algorithms for data analysis
 
-## Strukture podataka i algoritmi
-- **Bloom filter** – za brzu proveru da li ključ postoji
-- **Cache** – sloj za najčešće korišćene podatke
-- **Memtable (skip-lista)** – memorijsko skladište podataka pre upisa na disk
-- **Write Ahead Log (WAL)** – garantuje trajnost podataka pre nego što se prebace u memtable
-- **SStable (Sorted String Table)** – trajno skladište podataka na disku
-- **Kompakcija** – spajanje i optimizacija SStable fajlova radi smanjenja prostora i ubrzanja pretrage
-- **Count-Min Sketch** – probabilistički algoritam za procenu frekvencije pojavljivanja elemenata
-- **HyperLogLog** – algoritam za procenu broja različitih elemenata (cardinality estimation)
+## Data Structures and Algorithms
+- **Bloom filter** – fast check whether a key exists
+- **Cache** – layer for frequently accessed data
+- **Memtable (skip-list)** – in-memory storage before writing to disk
+- **Write Ahead Log (WAL)** – ensures durability before data is moved to memtable
+- **SStable (Sorted String Table)** – persistent storage on disk
+- **Compaction** – merging and optimizing SStable files to reduce space and improve search performance
+- **Count-Min Sketch** – probabilistic algorithm for estimating element frequency
+- **HyperLogLog** – algorithm for estimating the number of distinct elements (cardinality estimation)
 
-## Napomena autora
-Projekat je nastao kao timski zadatak na fakultetu. Moj doprinos obuhvata implementaciju i optimizaciju ključnih struktura podataka (skip-lista, Bloom filter, kompakcija) i probabilističkih algoritama (Count-Min Sketch, HyperLogLog). Projekat demonstrira principe na kojima se zasnivaju moderne baze podataka i sistemi za skladištenje podataka.
+## Author's Note
+This project was created as a team assignment at university. My contribution includes the implementation and optimization of key data structures (skip-list, Bloom filter, compaction) and probabilistic algorithms (Count-Min Sketch, HyperLogLog). The project demonstrates principles on which modern databases and data storage systems are based.
