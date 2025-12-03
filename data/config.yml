@@ -1,0 +1,10 @@
+wal_size: 3
+wal_buff: 3
+wal_lowWaterMark: 4
+wal_segMax: 6
+memtable_size: 10
+trashold: 70
+cache_size: 5
+LSM_levels: 3
+limit: 500
+rate: 4
